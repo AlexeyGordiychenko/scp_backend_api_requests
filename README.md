@@ -1,4 +1,16 @@
-# Working with public HTTP APIs
+# Working with public HTTP APIs (Individual project)
+
+Links to the completed assigments see here:
+
+[Part1](src/part1.md)
+
+[Part2](src/part2.md)
+
+[Part3](src/part3.md)
+
+
+## Score:
+The final score is 100% (max)
 
 ## Introduction
 
